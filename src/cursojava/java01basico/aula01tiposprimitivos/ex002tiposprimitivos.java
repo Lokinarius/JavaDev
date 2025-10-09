@@ -1,4 +1,4 @@
-package cursojava.basico.aula01;
+package cursojava.java01basico.aula01tiposprimitivos;
 
 public class ex002tiposprimitivos {
     // JAVA É UMA LIGUAGEM FORTEMENTE TIPADA
