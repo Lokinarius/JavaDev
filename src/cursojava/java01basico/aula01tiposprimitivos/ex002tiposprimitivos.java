@@ -8,10 +8,14 @@ public class ex002tiposprimitivos {
         byte idade = 30; // Feito para economizar memória, bem limitado -128 a 127
         short saldo = 30000;
         long coordenada = 33454758572392872L; //necessita do l no final
+
         float altura = 1.8f; // necessita do f no final
         double peso = 86.54;
+
         boolean verdadeiro = true;
+
         char letra = 'F'; // Caractere único, aspas simples
+
         String nome = "William";
 
         System.out.println("Ano: " + ano);

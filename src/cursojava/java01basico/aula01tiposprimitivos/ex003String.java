@@ -8,12 +8,13 @@ public class ex003String {
 
         System.out.println("Como você se chama? ");
         String nome = sc.nextLine();
+
         String mensagem = ", como foi o seu dia?";
         String saudacao = "Olá, ";
         int tamanhoNome = nome.length();
         boolean eOGoku = nome.equals("Goku");
 
-        System.out.println(saudacao + nome + mensagem );
+        System.out.println(saudacao + nome + mensagem);
         System.out.println("Seu nome tem " + tamanhoNome + " letras");
         System.out.println(eOGoku);
 
