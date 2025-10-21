@@ -4,6 +4,7 @@ public class ex002tiposprimitivos {
     // JAVA É UMA LIGUAGEM FORTEMENTE TIPADA
     public static void main(String[] args) {
         /* TIPOS PRIMITIVOS */
+
         int ano = 2025;
         byte idade = 30; // Feito para economizar memória, bem limitado -128 a 127
         short saldo = 30000;

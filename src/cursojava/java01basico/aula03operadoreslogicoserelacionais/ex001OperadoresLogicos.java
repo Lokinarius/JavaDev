@@ -1,4 +1,4 @@
-package cursojava.java01basico.aula02operadoreslogicoserelacionais;
+package cursojava.java01basico.aula03operadoreslogicoserelacionais;
 
 import java.util.Scanner;
 
@@ -13,6 +13,7 @@ public class ex001OperadoresLogicos {
 
         boolean pchave = (primeiro == 1);
         boolean schave = (segundo == 1);
+
 
         // OPERAÇÕES LÓGICAS
         boolean e = pchave && schave;

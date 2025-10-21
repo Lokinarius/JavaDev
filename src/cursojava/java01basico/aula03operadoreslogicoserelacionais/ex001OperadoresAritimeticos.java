@@ -1,7 +1,4 @@
-package cursojava.java01basico.aula02operadoreslogicoserelacionais;
-
-import org.w3c.dom.ls.LSOutput;
-
+package cursojava.java01basico.aula03operadoreslogicoserelacionais;
 import java.util.Scanner;
 
 public class ex001OperadoresAritimeticos {
