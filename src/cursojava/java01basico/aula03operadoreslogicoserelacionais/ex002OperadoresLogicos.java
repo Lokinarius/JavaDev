@@ -2,7 +2,7 @@ package cursojava.java01basico.aula03operadoreslogicoserelacionais;
 
 import java.util.Scanner;
 
-public class ex001OperadoresLogicos {
+public class ex002OperadoresLogicos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite 1 para verdadeiro e 0 para falso");
